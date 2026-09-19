@@ -1,0 +1,6 @@
+{
+  "name": "React Native Gallery",
+  "description": "React Native + TypeScript image gallery with Picsum API, authentication, persistent state, and interactive mobile simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
